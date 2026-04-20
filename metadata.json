@@ -1,0 +1,6 @@
+{
+  "name": "Local-First File Organizer",
+  "description": "A secure, local-first file manager with image-keyword search powered by Gemini. Store, tag, and preview files directly in your browser using IndexedDB.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
